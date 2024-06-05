@@ -1,0 +1,35 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.section {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sectionTwo {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.sectionThree {
+  text-align: center;
+  padding: 5px;
+}
+.sectionThrees {
+  text-align: center;
+}
+.sectionNine {
+  display: flex;
+
+  align-items: baseline;
+}
+.sectionSix {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.sectionFour {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
